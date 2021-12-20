@@ -1,5 +1,5 @@
-Hey,
-Welcome to my P R O F I L E [looph0le](https://www.github.com/looph0le)
+Hey there,
+Welcome to my PROFILE [looph0le](https://www.github.com/looph0le)
 ---
 P R O J E C T S
  - [Upperbody_detection_tool](https://github.com/looph0le/python_upperbody_detection)
