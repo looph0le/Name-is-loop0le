@@ -10,18 +10,4 @@ As a Fresher my aim is to gain experience and learn skills that are only accessi
 
 ![Profile views](https://gpvc.arturio.dev/looph0le)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/looph0le)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/1_mitansh_0/)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=looph0le)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=looph0le)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=looph0le&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=looph0le)  
-
-![GitHub metrics](https://metrics.lecoq.io/looph0le)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=looph0le)  
-
 
