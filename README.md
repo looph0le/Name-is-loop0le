@@ -7,7 +7,3 @@ As a Fresher my aim is to gain experience and learn skills that are only accessi
 
 - 🌱 I’m currently learning Web Technologies 
 - 📫 How to reach me: mitanshpanchal@gmail.com 
-
-![Profile views](https://gpvc.arturio.dev/looph0le)  
-
-
