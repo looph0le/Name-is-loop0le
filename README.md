@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Mitansh Panchal
 #### I'm Computer Engineering Student
-![I'm Computer Engineering Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Always passionate and committed towards Computer Technologies.
 A Linux enthusiast who likes to tinker with systems and manage them, ensuring everything works perfectly. Great interest in scripting and automation.
