@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mitansh Panchal aka <b>looph0le</b></h1>
-<h3 align="center">I'm a Computer Engineering Student and a Linux Enthusiast</h3>
+<h3 align="center">I'm a Computer Engineering Student and a <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/> Linux Enthusiast</h3>
 
 
 ## 🙋‍♂️ About Me
