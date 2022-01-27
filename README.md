@@ -8,6 +8,7 @@ As a Fresher my aim is to gain experience and learn skills that are only accessi
 - 🌱 I’m currently learning Web Technologies 
 - 📫 How to reach me: mitanshpanchal@gmail.com 
 
+![Profile views](https://gpvc.arturio.dev/looph0le)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/looph0le)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/1_mitansh_0/)  
 
@@ -23,4 +24,4 @@ As a Fresher my aim is to gain experience and learn skills that are only accessi
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=looph0le)  
 
-![Profile views](https://gpvc.arturio.dev/looph0le)  
+
