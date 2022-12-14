@@ -34,9 +34,21 @@ Web Developent and Social Media Marketing Agency Website
 **Tech Used :** AngularJs, Tailwindcss, AlpineJs
 
 ### Minor Projects
-**[torflix](https://github.com/looph0le/torflix)**
+**[TorFlix](https://github.com/looph0le/torflix)**
 
 Stream Torrent Movies and TV Shows from tor
+
+**[Minimal Todo List](https://looph0le.github.io/minimal-todo-list/)**
+
+Just a simple todo list
+
+**Tech Used:** AlpineJs, Tailwindcss
+
+**[Pokemon Api](https://looph0le.github.io/pokemon-api/)**
+
+Fetching Pokemon abilities using an API
+
+**Tech Used: ** VanillaJs, Tailwindcss
 
 ---
 
