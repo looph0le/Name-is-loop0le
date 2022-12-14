@@ -33,7 +33,11 @@ Web Developent and Social Media Marketing Agency Website
 **Tech Used :** AngularJs, Tailwindcss, AlpineJs
 
 ### Minor Projects
-1. [torflix - Stream Torrent Movies and TV Shows from tor](https://github.com/looph0le/torflix)
+**[torflix](https://github.com/looph0le/torflix)**
+
+Stream Torrent Movies and TV Shows from tor
+
+---
 
 <p align="center">
     <a href="https://github.com/looph0le/github-readme-streak-stats">
