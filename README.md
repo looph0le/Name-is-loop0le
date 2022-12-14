@@ -48,7 +48,7 @@ Just a simple todo list
 
 Fetching Pokemon abilities using an API
 
-**Tech Used: ** VanillaJs, Tailwindcss
+**Tech Used:** VanillaJs, Tailwindcss
 
 ---
 
