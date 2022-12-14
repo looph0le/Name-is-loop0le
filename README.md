@@ -27,7 +27,9 @@
 
 ### Major Projects
 1. [AsianBuiness] (https://asianbusiness.com)
+
 Web Developent and Social Media Marketing Agency Website
+
 **Tech Used :** AngularJs, Tailwindcss, AlpineJs
 
 ### Minor Projects
