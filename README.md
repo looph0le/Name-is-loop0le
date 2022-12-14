@@ -27,7 +27,7 @@
 ## My Practise
 
 ### Major Projects
-**[AsianBuiness](https://www.asianbusiness.com)**
+**[AsianBuiness](https://www.asianbusiness.co.in)**
 
 Web Developent and Social Media Marketing Agency Website
 
