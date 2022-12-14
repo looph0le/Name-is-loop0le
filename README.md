@@ -26,9 +26,9 @@
 ## My Practise
 
 ### Major Projects
-1. [AsianBuiness - Web Developent and Social Media Marketing Agency Website](https://asianbusiness.com)
-#### Tools
-AngularJs, Tailwindcss, AlpineJs
+1. [AsianBuiness] (https://asianbusiness.com)
+Web Developent and Social Media Marketing Agency Website
+**Tech Used :** AngularJs, Tailwindcss, AlpineJs
 
 ### Minor Projects
 1. [torflix - Stream Torrent Movies and TV Shows from tor](https://github.com/looph0le/torflix)
