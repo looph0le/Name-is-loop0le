@@ -77,7 +77,7 @@ Fetching Pokemon abilities using an API
 
 <a href = "https://www.linkedin.com/in/mitansh-panchal-20330b1b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/mitansh_panchal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/1_mitansh_0/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/genzcaveman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCczeHsI053Pw-FNIkWQG0aQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
