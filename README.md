@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 📫 How to reach me <a href="mitanshpanchal.com/contact">**mitanshpanchal.com/contact**</a>
+- 📫 How to reach me <a href="https://mitanshpanchal.com/contact">**mitanshpanchal.com/contact**</a>
 
 ## 🚀 Languages and Tools:
 
