@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 📫 How to reach me **mitanshpanchal@gmail.com**
+- 📫 How to reach me **mitanshpanchal at gmail dot com**
 
 ## 🚀 Languages and Tools:
 
