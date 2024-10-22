@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mitansh Panchal aka <b>looph0le</b></h1>
-<p align="center">I'm a Computer Engineering Student and a Linux Enthusiast</p>
+<p align="center">A Computer Engineering Student and a Linux Enthusiast</p>
 
 
 ## 🙋‍♂️ About Me
